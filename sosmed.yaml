@@ -1,5 +1,6 @@
 payload:
   # Whatsapp
+  - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculuscdn.com
