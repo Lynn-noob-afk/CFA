@@ -122,7 +122,6 @@ payload:
 - DOMAIN-KEYWORD,speedtestcustom
 - DOMAIN-KEYWORD,openspeedtest
 - DST-PORT,8080
-# > MARKET PLACE
 - DOMAIN-SUFFIX,tokopedia.com
 - DOMAIN-SUFFIX,shopee.co.id
 - DOMAIN-SUFFIX,shopeemobile.com
@@ -143,7 +142,6 @@ payload:
 - DOMAIN-KEYWORD,ralali
 - DOMAIN-KEYWORD,bhinneka
 - DOMAIN-KEYWORD,zalora
-# > LIST Domain tLD Indo & GEOIP INDO
 - DOMAIN-KEYWORD,.id
 - DOMAIN-KEYWORD,co.id
 - DOMAIN-KEYWORD,ac.id
